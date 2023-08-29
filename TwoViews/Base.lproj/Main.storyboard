@@ -34,7 +34,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="yIg-G4-JYW" secondAttribute="trailing" constant="32" id="YdK-nh-cV7"/>
                             <constraint firstItem="yIg-G4-JYW" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="32" id="bOM-4b-kSY"/>
                             <constraint firstItem="MNS-g3-7Pe" firstAttribute="height" secondItem="yIg-G4-JYW" secondAttribute="height" id="hn6-cu-mdB"/>
-                            <constraint firstItem="yIg-G4-JYW" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="k1t-fN-Egm"/>
                             <constraint firstItem="MNS-g3-7Pe" firstAttribute="top" secondItem="yIg-G4-JYW" secondAttribute="bottom" constant="50" id="oiu-zW-ZWc"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="MNS-g3-7Pe" secondAttribute="trailing" constant="32" id="t5p-oh-3zi"/>
                         </constraints>
